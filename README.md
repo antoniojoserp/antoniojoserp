@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @antoniojoserp
-- 👀 I’m interested in applications in applications in medicine, data visualization and statistics.
+- 👀 I’m interested in applications in medicine, data visualization and statistics.
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on ...
 
