@@ -5,7 +5,7 @@
 #         coded by Antonio Romero, MD                           #
 #   to be presented at:                                         #
 #   European Society of Cardiology Congress 2022, Barcelona     #
-#     http://shorturl.at/erLN9                                #
+#     http://shorturl.at/erLN9                                  #
 #                                                               #
 #################################################################
 
